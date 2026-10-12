@@ -39,6 +39,14 @@ body {
     margin-right: 40px;
 }
 
+footer {
+    position: fixed;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
 .popupthingy {
     position: fixed;
     margin: 0;
